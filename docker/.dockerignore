@@ -1,0 +1,12 @@
+node_modules
+reports
+test-results
+playwright-report
+allure-results
+allure-report
+.auth
+.git
+.github
+configs/env/.env.local
+configs/env/.env.stage
+configs/env/.env.prod
